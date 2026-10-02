@@ -1,0 +1,15 @@
+{
+  "SchemaVersion": 1,
+  "Modules": [
+    {
+      "InternalName": "MoreCommand",
+      "Name": "更多的文本指令",
+      "Author": "COXOIDA",
+      "Description": "独立宏库，每页 100 个槽位，可增加页面，并接入普通热键栏。",
+      "Version": "0.3.10",
+      "MinimumOmniVersion": "1.1.6.2",
+      "File": "Modules/0.3.10/OmniToolbox.MoreCommand.dll",
+      "Sha256": "A2D713BA1F9AB34F4CD2C048C3B7006ABC5C845BA9F228E15DAC774E90ABC5FE"
+    }
+  ]
+}
