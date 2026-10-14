@@ -5,11 +5,11 @@
       "InternalName": "MoreCommand",
       "Name": "更多的文本指令",
       "Author": "COXOIDA",
-      "Description": "独立宏库，每页 100 个槽位，可增加页面，并支持普通热键栏与多根模拟热键栏。",
-      "Version": "0.4.34",
+      "Description": "独立宏库，每页 100 个槽位，可增加页面，并支持普通热键栏、快捷面板与多根模拟热键栏。",
+      "Version": "0.4.40",
       "MinimumOmniVersion": "1.1.6.6",
-      "File": "Modules/0.4.34/OmniToolbox.MoreCommand.dll",
-      "Sha256": "6129E6608CA10603F42016093EE0892C454F4E422FA131E251DF0BB6FB4936C0"
+      "File": "Modules/0.4.40/OmniToolbox.MoreCommand.dll",
+      "Sha256": "7E5A4CE1F58843C7BEFBEDA0679C285071DB3AFFA66038360B57F1B056F67661"
     }
   ]
 }
