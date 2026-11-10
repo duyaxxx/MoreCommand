@@ -3,13 +3,19 @@
   "Modules": [
     {
       "InternalName": "MoreCommand",
-      "Name": "更多的文本指令",
       "Author": "COXOIDA",
-      "Description": "独立宏库，每页 100 个槽位，可增加页面，并支持普通热键栏、快捷面板与多根模拟热键栏。",
-      "Version": "0.4.41",
-      "MinimumOmniVersion": "1.1.6.6",
-      "File": "Modules/0.4.41/OmniToolbox.MoreCommand.dll",
-      "Sha256": "8361FFC4C91448C9077770CD0488F93D1D9025FB4AE1287BE764F88D68C35911"
+      "RepositoryURL": "https://github.com/duyaxxx/MoreCommand",
+      "Version": "0.4.42",
+      "ApiVersion": 1,
+      "MinimumOmniVersion": "1.1.8.2",
+      "File": "Modules/0.4.42/MoreCommand.dll",
+      "Sha256": "0BBEBA3FDAEBC3F09091414AC81338865DAC157F279BEF8A13EA29362295444E",
+      "Localization": {
+        "Source": {
+          "Title": "更多的文本指令",
+          "Description": "独立宏库，每页 100 个槽位，可增加页面，并支持普通热键栏、快捷面板与多根模拟热键栏。"
+        }
+      }
     }
   ]
 }
